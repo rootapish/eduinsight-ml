@@ -735,5 +735,5 @@ st.warning(
     "habit causes a particular grade or absence level."
 )
 st.caption(
-    "Dataset: P. Cortez (2008), UCI Student Performance. See the README for the source and setup steps."
+    "Dataset: P. Cortez (2008), UCI Student Performance."
 )
